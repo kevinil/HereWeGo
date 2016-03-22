@@ -1,0 +1,10 @@
+PODS:
+  - GDIIndexBar (0.3.5)
+
+DEPENDENCIES:
+  - GDIIndexBar
+
+SPEC CHECKSUMS:
+  GDIIndexBar: 38a250ad02cea73fcb50a1cdad815b726a13a39e
+
+COCOAPODS: 0.39.0
